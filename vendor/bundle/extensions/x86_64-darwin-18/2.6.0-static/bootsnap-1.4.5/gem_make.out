@@ -1,0 +1,15 @@
+current directory: /Users/onp55/projects/ruby_twitter/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/onp55/.anyenv/envs/rbenv/versions/2.6.3/bin/ruby -I /Users/onp55/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20191023-5879-14lqt58.rb extconf.rb
+creating Makefile
+
+current directory: /Users/onp55/projects/ruby_twitter/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/onp55/projects/ruby_twitter/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/onp55/projects/ruby_twitter/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20191023-5879-1osq4kj/bootsnap
